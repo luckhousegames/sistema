@@ -1,0 +1,224 @@
+{
+  "products": [
+    {
+      "id": "prod_001",
+      "name": "Heineken 600ml",
+      "category": "Cervejas",
+      "price": 15.00,
+      "cost": 7.00
+    },
+    {
+      "id": "prod_002",
+      "name": "Brahma Duplo Malte Lata",
+      "category": "Cervejas",
+      "price": 6.00,
+      "cost": 2.50
+    },
+    {
+      "id": "prod_003",
+      "name": "Original 600ml",
+      "category": "Cervejas",
+      "price": 12.00,
+      "cost": 5.50
+    },
+    {
+      "id": "prod_004",
+      "name": "Skol Beats Senses Lata",
+      "category": "Cervejas",
+      "price": 8.00,
+      "cost": 3.50
+    },
+    {
+      "id": "prod_005",
+      "name": "Coca-Cola Lata 350ml",
+      "category": "Bebidas",
+      "price": 5.00,
+      "cost": 2.00
+    },
+    {
+      "id": "prod_006",
+      "name": "Guaraná Antarctica Lata 350ml",
+      "category": "Bebidas",
+      "price": 5.00,
+      "cost": 2.00
+    },
+    {
+      "id": "prod_007",
+      "name": "Água Mineral com Gás 500ml",
+      "category": "Bebidas",
+      "price": 4.00,
+      "cost": 1.50
+    },
+    {
+      "id": "prod_008",
+      "name": "Suco de Laranja Natural 300ml",
+      "category": "Bebidas",
+      "price": 8.00,
+      "cost": 3.00
+    },
+    {
+      "id": "prod_009",
+      "name": "Porção de Batata Frita (M)",
+      "category": "Salgados",
+      "price": 25.00,
+      "cost": 10.00
+    },
+    {
+      "id": "prod_010",
+      "name": "Porção de Calabresa Acebolada",
+      "category": "Salgados",
+      "price": 30.00,
+      "cost": 12.00
+    },
+    {
+      "id": "prod_011",
+      "name": "Espetinho de Carne Angus",
+      "category": "Espetinhos",
+      "price": 12.00,
+      "cost": 5.00
+    },
+    {
+      "id": "prod_012",
+      "name": "Espetinho de Frango com Bacon",
+      "category": "Espetinhos",
+      "price": 10.00,
+      "cost": 4.00
+    },
+    {
+      "id": "prod_013",
+      "name": "Porção de Mandioca Frita com Queijo",
+      "category": "Salgados",
+      "price": 28.00,
+      "cost": 10.00
+    },
+    {
+      "id": "prod_014",
+      "name": "X-Salada Clássico",
+      "category": "Lanches",
+      "price": 20.00,
+      "cost": 8.00
+    },
+    {
+      "id": "prod_015",
+      "name": "X-Bacon Artesanal",
+      "category": "Lanches",
+      "price": 25.00,
+      "cost": 10.00
+    },
+    {
+      "id": "prod_016",
+      "name": "Misto Quente no Pão Francês",
+      "category": "Lanches",
+      "price": 12.00,
+      "cost": 4.00
+    },
+    {
+      "id": "prod_017",
+      "name": "Brigadeiro Gourmet (unidade)",
+      "category": "Doces",
+      "price": 5.00,
+      "cost": 1.50
+    },
+    {
+      "id": "prod_018",
+      "name": "Beijinho Tradicional (unidade)",
+      "category": "Doces",
+      "price": 4.00,
+      "cost": 1.20
+    },
+    {
+      "id": "prod_019",
+      "name": "Pudim de Leite Condensado (fatia)",
+      "category": "Sobremesas",
+      "price": 10.00,
+      "cost": 3.50
+    },
+    {
+      "id": "prod_020",
+      "name": "Mousse de Maracujá Cremoso",
+      "category": "Sobremesas",
+      "price": 8.00,
+      "cost": 2.50
+    },
+    {
+      "id": "prod_021",
+      "name": "Dose Whisky Red Label",
+      "category": "Doses",
+      "price": 18.00,
+      "cost": 7.00
+    },
+    {
+      "id": "prod_022",
+      "name": "Dose Cachaça da Casa",
+      "category": "Doses",
+      "price": 10.00,
+      "cost": 3.00
+    },
+    {
+      "id": "prod_023",
+      "name": "Dose Vodka Smirnoff",
+      "category": "Doses",
+      "price": 15.00,
+      "cost": 6.00
+    },
+    {
+      "id": "prod_024",
+      "name": "Caipirinha de Limão (Cachaça)",
+      "category": "Doses",
+      "price": 16.00,
+      "cost": 5.00
+    },
+    {
+      "id": "prod_025",
+      "name": "Pastel de Carne (unidade)",
+      "category": "Salgados",
+      "price": 7.00,
+      "cost": 2.50
+    },
+    {
+      "id": "prod_026",
+      "name": "Pastel de Queijo (unidade)",
+      "category": "Salgados",
+      "price": 7.00,
+      "cost": 2.50
+    }
+  ],
+  "customers": [
+    {
+      "id": "cust_001",
+      "name": "Ana Silva",
+      "phone": "11987654321",
+      "isConvenio": true
+    },
+    {
+      "id": "cust_002",
+      "name": "Bruno Costa",
+      "phone": "21912345678",
+      "isConvenio": false
+    },
+    {
+      "id": "cust_003",
+      "name": "Carla Dias Pereira",
+      "phone": "",
+      "isConvenio": true
+    },
+    {
+      "id": "cust_004",
+      "name": "Daniel Oliveira",
+      "phone": "31999998888",
+      "isConvenio": false
+    },
+    {
+      "id": "cust_005",
+      "name": "Fernanda Lima Azevedo",
+      "phone": "19988776655",
+      "isConvenio": false
+    }
+  ],
+  "tickets": [],
+  "events": [],
+  "settings": {
+    "fixedCosts": 0,
+    "theme": "theme-dark"
+  }
+}
